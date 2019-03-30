@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern="ye" type="PLAIN_TEXT" />
       <mapping ext="gradle" type="PLAIN_TEXT" />
     </extensionMap>
